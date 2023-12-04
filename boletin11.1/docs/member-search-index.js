@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"boletin11.pkg1","c":"Boletin111","l":"Boletin111()","u":"%3Cinit%3E()"},{"p":"boletin11.pkg1","c":"clase1","l":"clase1()","u":"%3Cinit%3E()"},{"p":"boletin11.pkg1","c":"clase1","l":"Juego()"},{"p":"boletin11.pkg1","c":"Boletin111","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
